@@ -1,0 +1,21 @@
+{
+  "name": "nasa-api-parser",
+  "version": "1.0.0",
+  "description": "A program to parse the NASA API data.",
+  "main": "/lib/NasaApiParser.js",
+  "scripts": {
+    "test": "/test/NasaApiParserTest.js"
+  },
+  "dependencies": {
+    "node": "^12.11.1",
+    "axios": "^0.19.0"
+  },
+  "keywords": [
+    "NASA",
+    "space",
+    "api",
+    "parser"
+  ],
+  "author": "CodeCanna",
+  "license": "ISC"
+}
